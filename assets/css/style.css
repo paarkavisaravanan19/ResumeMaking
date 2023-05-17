@@ -6,7 +6,6 @@
 	--gray:#d8dce4;
 	--lightgray:#8e9095;
 }
-
 *{
 	margin: 0px;
 	padding: 0px;
@@ -192,7 +191,6 @@ body{
     height: 8px;
     width: 100%;
 }
-
 #progress1:after {
     content: '';
     display: block;
